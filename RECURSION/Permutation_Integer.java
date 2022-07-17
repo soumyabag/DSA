@@ -29,3 +29,6 @@ public class Permutation_Integer {
     }
 
 }
+
+// T.C. - O(n*n!)
+// S.C. - O(n)
