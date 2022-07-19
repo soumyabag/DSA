@@ -1,6 +1,6 @@
 package DSA;
 import java.util.*;
-
+// T.C.- O(2^n)
 public class Subsets_Integer {
 
 	public static void main(String[] args) {
